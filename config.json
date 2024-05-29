@@ -1,0 +1,19 @@
+{
+  "Name": "Hamed Zoveydavi",
+  "Type": "Standard MT5 USD",
+  "Server": "AMarkets-Demo",
+  "Login": 6582383,
+  "Password": "0-CqZvUd",
+  "Investor": "Vh+z5pHp",
+  "initial_balance":100000,
+  "auto_trade_check_period":60,
+  "gain_send_time_gmt":2,
+  "max_total_dd":8.0,
+  "max_daily_dd":5.0,
+  "min_position_duration_seconds":300,
+  "max_position_with_min_duration":3,
+  "api_sandbox_mode":true,
+  "position_under_min": 3,
+  "total_position_under_min":5,
+  "reset":false
+}
