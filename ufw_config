@@ -1,0 +1,9 @@
+ufw limit SSH
+ufw allow to 224.0.0.251 app mDNS
+ufw allow from 46.245.64.65
+ufw allow from 142.202.51.16
+ufw allow 80
+ufw allow 443
+ufw deny from any port 3000
+ufw allow to ff02::fb app mDNS
+ufw limit 22
